@@ -25,13 +25,13 @@ Regularly updated list with resources and links we found on the web, curated by 
   - [React v16.6.0: lazy, memo and contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
   - [The Beginner's Guide to React📹](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
-- Tools
+## Tools
 
-  - [VS Code](https://code.visualstudio.com/)
-  - [Flow](https://flow.org/en/docs/install/)
-  - [Prettier](https://github.com/prettier/prettier)
-  - [React Devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
-  - [Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)
+- [VS Code](https://code.visualstudio.com/)
+- [Flow](https://flow.org/en/docs/install/)
+- [Prettier](https://github.com/prettier/prettier)
+- [React Devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+- [Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)
 
 ## Libs
 
