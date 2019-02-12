@@ -28,6 +28,8 @@ Actualmente el núcleo principal del departamento  es la librería **React** par
 ## Estructura de carpetas
 
 Proyecto
+* [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
+* [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 
 ```
 ├── src/                                     
@@ -49,6 +51,8 @@ Recursos
 ```
 
 Atomic design
+* [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
+* [¿Qué es el diseño atómico?](https://medium.com/pixel-perfect/qué-es-el-diseño-atómico-a5cbed06688e)
 
 ```                                                
 ├── components/             
@@ -60,6 +64,7 @@ Atomic design
 ```
 
 Componente
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 ```
 <component>/
@@ -73,7 +78,8 @@ Componente
 ```
 
 Redux (re-ducs)
-
+* [Reducks - duck folders](https://github.com/alexnm/re-ducks)
+* Un duck por cada concepto
 ```
 <duck>/
     ├── index.js        
