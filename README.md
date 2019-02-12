@@ -30,37 +30,33 @@ Actualmente el núcleo principal del departamento  es la librería **React** par
 Proyecto
 
 ```
-  /
-	├── src/                                     
-        ├── assets/      
-        ├── components/ 
-        ├── config/         
-        ├── redux/       
-        ├── services/   
+├── src/                                     
+    ├── assets/      
+    ├── components/ 
+    ├── config/         
+    ├── redux/       
+    ├── services/   
 ```
 
 Recursos
 
-```
-  /                  
-  ├── src/                                   
-        ├── assets/ 
-        	├── colors/  
-            ├── fonts/   
-            ├── images/ 
-            ├── i18n/   
+```                            
+├── assets/ 
+    ├── colors/  
+    ├── fonts/   
+    ├── images/ 
+    ├── i18n/   
 ```
 
 Atomic design
 
-```
-  ├── src/                                                    
-        ├── components/             
-            ├── system/    
-            ├── pages/       
-            ├── organisms/          
-            ├── molecules/          
-            ├── atoms/   
+```                                                
+├── components/             
+    ├── system/    
+    ├── pages/       
+    ├── organisms/          
+    ├── molecules/          
+    ├── atoms/   
 ```
 
 Componente
