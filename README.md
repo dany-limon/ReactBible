@@ -1,6 +1,6 @@
 Este documento tiene como objetivo describir el distinto stack tecnológico que estamos usando en el departamento de Frontend.
 
-Actualmente el núcleo principal del departamento  es la librería **React** para el renderizado, **React Router** para el enrutado, **Redux **para la lógica de negocio, **styled-components** para añadir los estilos y **Jest** para los tests unitarios. Como editor utilizamos **Visual Studio Code** configurado con **prettier**.
+Actualmente el núcleo principal del departamento  es la librería **React** para el renderizado, **React Router** para el enrutado, **Redux** para la lógica de negocio, **styled-components** para añadir los estilos y **Jest** para los tests unitarios. Como editor utilizamos **Visual Studio Code** configurado con **prettier**.
 
 ## Javascript
 
