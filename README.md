@@ -31,7 +31,7 @@ Proyecto
 
 ```
   /
-	├── src/                                     
+  ├── src/                                     
     ├── assets/      
     ├── components/ 
     ├── config/         
