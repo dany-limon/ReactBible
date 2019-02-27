@@ -1,8 +1,6 @@
-# React stuff 🔥
+Este documento tiene como objetivo describir el stack tecnológico que estamos usando en el departamento de Frontend.
 
-Este documento tiene como objetivo describir el distinto stack tecnológico que estamos usando en el departamento de Frontend de [Cloud District](http://clouddistrict.com).
-
-Actualmente el núcleo principal del departamento  es la librería **React** para el renderizado, **React Router** para el enrutado, **Redux** para la lógica de negocio, **styled-components** para añadir los estilos y **Jest** para los tests unitarios. Como editor utilizamos **Visual Studio Code** configurado con **prettier**.
+Actualmente el núcleo principal del departamento  es la librería **React** para el renderizado, **React Router** para el enrutado, **Redux **para la lógica de negocio, **styled-components **para añadir los estilos y **Jest** para los tests unitarios. Como editor utilizamos** Visual Studio Code **configurado con **Prettier y ESLint**.
 
 ## Javascript
 
@@ -21,50 +19,49 @@ Actualmente el núcleo principal del departamento  es la librería **React** par
 ## Herramientas
 
 * [Visual Studio Code  → Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
-* [Flow → Installation | Flow](https://flow.org/en/docs/install/)
-* [Prettier → GitHub - prettier/prettier: Prettier is an opinionated code formatter.](https://github.com/prettier/prettier)
+* [Prettier · Opinionated Code Formatter](https://prettier.io)
+* [ESLint - Pluggable JavaScript linter](https://eslint.org)
 * [react-devtools → react-devtools/packages/react-devtools at master ·...](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 
 ## Estructura de carpetas
 
 Proyecto
-* [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
-* [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 
 ```
-├── src/                                     
-    ├── assets/      
-    ├── components/ 
-    ├── config/         
-    ├── redux/       
-    ├── services/   
+  /
+	├── src/                                     
+        ├── assets/      
+        ├── components/ 
+        ├── config/         
+        ├── redux/       
+        ├── services/   
 ```
 
 Recursos
 
-```                            
-├── assets/ 
-    ├── colors/  
-    ├── fonts/   
-    ├── images/ 
-    ├── i18n/   
+```
+  /                  
+  ├── src/                                   
+        ├── assets/ 
+        	├── colors/  
+            ├── fonts/   
+            ├── images/ 
+            ├── i18n/   
 ```
 
 Atomic design
-* [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
-* [¿Qué es el diseño atómico?](https://medium.com/pixel-perfect/qué-es-el-diseño-atómico-a5cbed06688e)
 
-```                                                
-├── components/             
-    ├── system/    
-    ├── pages/       
-    ├── organisms/          
-    ├── molecules/          
-    ├── atoms/   
+```
+  ├── src/                                                    
+        ├── components/             
+            ├── system/    
+            ├── pages/       
+            ├── organisms/          
+            ├── molecules/          
+            ├── atoms/   
 ```
 
 Componente
-* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 ```
 <component>/
@@ -78,8 +75,7 @@ Componente
 ```
 
 Redux (re-ducs)
-* [Reducks - duck folders](https://github.com/alexnm/re-ducks)
-* Un duck por cada concepto
+
 ```
 <duck>/
     ├── index.js        
