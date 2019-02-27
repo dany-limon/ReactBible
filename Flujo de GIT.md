@@ -72,7 +72,7 @@ Después de un **hotfix** se tendrá que hacer merge de la rama master contra la
 
 ## Despliegue
 
-Llevar** cambios a producción** consiste en hacer PR de dev a master. Si se llega a implementar un sistema de despliegue continuo (CD) este paso se hará de manera automática.
+Llevar **cambios a producción** consiste en hacer PR de dev a master. Si se llega a implementar un sistema de despliegue continuo (CD) este paso se hará de manera automática.
 
 ![](https://lh4.googleusercontent.com/8wywM0NYa8DBbep161FCWM_u9utlL1De77UZAi6acFLXA-uILAiSP3te0oNRDAiF-MNoWLBeUuCm8TV38GVKjh-RGKOEPLkxLTdHdgqaJR2wFGJSSAz0UYW-cYLrFmcg0YwPihEsJLQ)
 
@@ -91,15 +91,15 @@ Revisar tus Pull Request antes que lo haga un compañero, ayudará a detectar pr
 
 ## ¿Qué es un Code Review?
 
-**Code Review**, es el proceso mediante el cual los **distintos miembros de un equipo revisan en conjunto** la implementación realizada por otro miembro. Aportando **ideas sobre mejoras** en la implementación,** **posibles** refactorizaciones**, discusión de posibles **bugs**, **optimizaciones**, errores o **mejoras de arquitectura**, conveniencia o falta de cobertura de test, y todo tipo de discusiones sobre los cambios realizados para entregar una determinada funcionalidad.
+**Code Review**, es el proceso mediante el cual los **distintos miembros de un equipo revisan en conjunto** la implementación realizada por otro miembro. Aportando **ideas sobre mejoras** en la implementación, **posibles refactorizaciones**, discusión de posibles **bugs**, **optimizaciones**, errores o **mejoras de arquitectura**, conveniencia o falta de cobertura de test, y todo tipo de discusiones sobre los cambios realizados para entregar una determinada funcionalidad.
 
 Es importante que persigamos  los valores principales de **Extreme Programming**:
 
 **Simplicidad**: KISS (Keep it Simple Stupid),  Evitar sobre ingeniería\
-**Comunicación: **Código auto-documentado, Pair Programming,  Autoría Colectiva del Código\
-**Feedback: **Ciclos Cortos de desarrollo, Ejecutar Pruebas Frecuentemente\
-**Valentía: **Refactoring cuando es necesario,  Persistencia en los objetivos\
-**Respeto: **> Autoestima > Productividad
+**Comunicación:** Código auto-documentado, Pair Programming,  Autoría Colectiva del Código\
+**Feedback:** Ciclos Cortos de desarrollo, Ejecutar Pruebas Frecuentemente\
+**Valentía:** Refactoring cuando es necesario,  Persistencia en los objetivos\
+**Respeto:**> Autoestima > Productividad
 
 ## Recomendaciones para hacer un Code Review
 
@@ -122,9 +122,4 @@ Es importante que persigamos  los valores principales de **Extreme Programming**
 
 **Slides Estrategia de GIT:**  [https://docs.google.com/presentation/d/1NtJ7_rA7q-mxDAbjUji4_SZ88S_jaedkPEXsXuvj7wE/edit](https://docs.google.com/presentation/d/1NtJ7_rA7q-mxDAbjUji4_SZ88S_jaedkPEXsXuvj7wE/edit)
 
-**Slides Gitflow + Code Review: **[https://docs.google.com/presentation/d/1ClMSYVSTPvtLmTMspWmyZfEZX_jnXHpNzLP9c8JoUAQ/edit](https://docs.google.com/presentation/d/1ClMSYVSTPvtLmTMspWmyZfEZX_jnXHpNzLP9c8JoUAQ/edit)\
-\
-
-\
-
-\
+**Slides Gitflow + Code Review:** [https://docs.google.com/presentation/d/1ClMSYVSTPvtLmTMspWmyZfEZX_jnXHpNzLP9c8JoUAQ/edit](https://docs.google.com/presentation/d/1ClMSYVSTPvtLmTMspWmyZfEZX_jnXHpNzLP9c8JoUAQ/edit)\
