@@ -1,3 +1,5 @@
+# ESLint
+
 ESLint es una herramienta de *linting* para Javascript. Un linter es un programa que se encarga de revisar el código e ir señalando errores y posibles bugs. 
 
 El propósito de ESLint es encontrar errores de manera automática sin tener que ejecutar el código y poder corregirlos manualmente, o incluso de manera automática.

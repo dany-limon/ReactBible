@@ -16,7 +16,7 @@
 * **Independientes**. Un test debe poder ejecutarse de forma independiente al resto
 * **Repetibles.** El resultado debe ser el mismo independientemente de donde se ejecuten
 * **Auto evaluables.** Cada test comprueba una unidad de código cada vez
-* **Rápidos. **Los tests deben ser muy rápidos de probar
+* **Rápidos.** Los tests deben ser muy rápidos de probar
 * **Automatizables**
 
 ## Ventajas
@@ -25,7 +25,7 @@
 * Facilitan los cambios y **refactorizaciones**
 * Sirven de **documentación**
 * Son un indicador de **calidad**
-* Son un paso más de la** Integración continua**
+* Son un paso más de la **Integración continua**
 * **TDD** (Test-driven development)
 
 ## Render por defecto

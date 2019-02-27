@@ -1,3 +1,5 @@
+# Prettier
+
 Prettier es un formateador de código. Es decir, modifica o arregla nuestro código según nuestra configuración para mantener todos los proyectos consistentes con las mismas reglas.
 
 ## Información oficial
