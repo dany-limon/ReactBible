@@ -32,11 +32,11 @@ Proyecto
 ```
   /
 	├── src/                                     
-        ├── assets/      
-        ├── components/ 
-        ├── config/         
-        ├── redux/       
-        ├── services/   
+    ├── assets/      
+    ├── components/ 
+    ├── config/         
+    ├── redux/       
+    ├── services/   
 ```
 
 Recursos
@@ -44,11 +44,11 @@ Recursos
 ```
   /                  
   ├── src/                                   
-        ├── assets/ 
-        	├── colors/  
-            ├── fonts/   
-            ├── images/ 
-            ├── i18n/   
+    ├── assets/ 
+      ├── colors/  
+      ├── fonts/   
+      ├── images/ 
+      ├── i18n/   
 ```
 
 Atomic design
